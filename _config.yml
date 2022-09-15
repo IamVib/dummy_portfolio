@@ -1,6 +1,10 @@
 title: <p align="center"> Vibhor's dummy portfolio </p>
 logo: /assets/img/Radhabudgie.jpg
-<br>
-description: Software Engineer @ Microsoft
-<br>
+
+description: 
+<p align="center">
+  <br>   
+  Software Engineer || @ Microsoft
+  <br>
+  </p>
 theme: jekyll-theme-minimal
